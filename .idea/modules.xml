@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/githubrouttinescala.iml" filepath="$PROJECT_DIR$/.idea/modules/githubrouttinescala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/githubrouttinescala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/githubrouttinescala-build.iml" />
+    </modules>
+  </component>
+</project>
